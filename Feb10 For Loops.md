@@ -8,9 +8,9 @@
 
 &nbsp;
 
-### 2. Sum of First N Natural Numbers
+### 2. Sum of First 10 Natural Numbers
    
-   Write a program to calculate the sum of the first 10 natural numbers using a `for` loop.
+   Write a program to calculate and display the sum of the first 10 natural numbers using a `for` loop.
 
 &nbsp;
 
@@ -22,7 +22,7 @@
 
 ### 4. Factorial of a Number
    
-   Write a program to find the factorial of a given number, say 5, using a `for` loop.
+   Write a program to find and display the factorial of a given number, say 5, using a `for` loop.
 
 &nbsp;
 
