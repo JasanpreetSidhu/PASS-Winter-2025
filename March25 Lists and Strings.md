@@ -1,4 +1,4 @@
-# March25 Lists
+# March25 Lists and Strings
 
 Q1. Write a Python program that defines a function `hasSymbol(myString)`, which checks if the given string contains any symbols like `!~|;:/><@`. The function should return `True` if any symbol is[...]
 
